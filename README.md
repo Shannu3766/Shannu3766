@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shannu3766
-- 👀 I’m interested in ...pragramming,cyber security
+- 👀 I’m interested in ...pragramming,Machine Learning
 - 🌱 I’m currently learning ...linux 
 - 📫 How to reach me ...
 - linked in -https://www.linkedin.com/in/shanmukha-srinivas-27989b256
