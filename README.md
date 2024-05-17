@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shanmukha Srinivas Ch</h1>
-<h3 align="center">I'm a passionate developer with a keen interest in Machine Learning, Deep Learning, and Mobile Development</h3>
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Machine Learning, Deep Learning, and Mobile Development. I enjoy building intelligent systems and beautiful applications that solve real-world problems.
 
 - 🌱 I’m currently learning **TensorFlow,pytorch**
-
 - 📫 How to reach me **shanmukhasrinivas82@gmail.com**
+- 😄 Pronouns: He <br>
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/shanmukha-srinivas-ch-27989b256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanmukha-srinivas-ch-27989b256" height="30" width="40" /></a>
 <a href="https://kaggle.com/shannu3766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shannu3766" height="30" width="40" /></a>
